@@ -11,7 +11,7 @@ for num in mylist:
     if num %2 == 0:
         print ('Even Number '+str(num))
     else:
-        print (f'Odd Number {num}')
+        print (f'Odd Number '+str(num))
 
 list_sum = 0
 

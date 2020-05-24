@@ -21,7 +21,7 @@ e = 1
 f = d+e
 
 print (f)
-print ("The integer with decimal is "+str(type(f)))
+print ("The integer with decimal is "+str(type(f))) #Converting the int to str as we can't conc str & int.
 
 
 # Data Type: Number : Complex
@@ -41,6 +41,3 @@ print(fruits[5])
 for x in fruits:
     print (x)
 
-# # Data Type: Sequence Types: Tuple
-
-git 
