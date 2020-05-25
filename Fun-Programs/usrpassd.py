@@ -10,7 +10,6 @@ if username == 'john' and passwd == 'john':
     print('Logged in as {}'.format(username))
 elif username == 'sam' and passwd == 'sam':
     print('Logged in as {}'.format(username))
-
 else:
     print('Login Failed')
 
